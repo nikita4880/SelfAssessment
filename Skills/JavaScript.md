@@ -1,27 +1,27 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
+  - `Object`: 🖐️ used
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
+  - `BigInt`: 🖐️ used
+  - `String`: 🖐️ used
+  - `Symbol`: 🖐️ used
+  - `Infinity`: 🖐️ used
+  - `NaN`: 🖐️ used
+  - `undefined`: 🖐️ used
+  - `null`: 🖐️ used
   - `this`
   - `instanceof`
-  - `...spread`
-  - `...rest`
-  - `typeof`
+  - `...spread`: 👂 heard
+  - `...rest`: 👂 heard
+  - `typeof`: 🖐️ used
   - Destructuring
   - Generators
   - Iterators
   - Async generator
-  - Async iterator
+  - Async iterator: 👂 heard
   - Chaining
   - Optional chaining
   - IIFE
@@ -31,7 +31,7 @@
   - `window`
   - Getters and setters
   - `__proto__`
-  - `prototype`
+  - `prototype`: 👂 heard
   - Equality operators
   - Logical operators
   - Logical Assignment
@@ -59,25 +59,25 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
-  - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
-  - `export`
-  - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 🖐️ used
+  - `for`: 🖐️ used
+  - `for..in`: 🎓 known
+  - `for..of`: 🎓 known
+  - `for await`: 🎓 known
+  - `throw`: 🎓 known
+  - `break`: 🎓 known
+  - `continue`: 🎓 known
+  - `import`: 🎓 known
+  - `export`: 🎓 known
+  - `label`: 🎓 known
+  - `try..catch`: 👂 heard
+  - `switch`: 🎓 known
+  - `class`: 🎓 known
   - `extends`
-  - `with`
-  - `new`
+  - `with`: 👂 heard
+  - `new`: 👂 heard
 - Functions
   - Arrow function
   - Async function
@@ -99,14 +99,14 @@
   - Mixins
   - `Object.assign`
 - Standard classes and namespaces
-  - `Proxy`
+  - `Proxy`: 👂 heard
   - `RegExp`
   - `Date`
-  - `Math`
+  - `Math`: 👂 heard
   - `Reflect`
-  - `Error`
+  - `Error`: 👂 heard
   - `Atomics`
-  - `JSON`
+  - `JSON`: 👂 heard
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
@@ -115,8 +115,8 @@
   - Timers
 - Infrastructure
   - V8
-  - Node.js
-  - npm
+  - Node.js: 👂 heard
+  - npm: 🖐️ used
   - prettier
   - MDN
   - TC39

@@ -3,11 +3,11 @@
 - Application structure
   - Modularity
   - Components
-  - Directories
+  - Directories: 🎓 known
   - GRASP
   - SOLID
   - GoF patterns
-  - CQS
+  - CQS: 👂 heard
   - Leaking abstractions
   - Multiparadigm code
   - Contract programming
@@ -18,10 +18,10 @@
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability: 🖐️ used
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
@@ -97,4 +97,4 @@
   - OLTP
   - Conways Law
   - Quality assurance
-  - Engineering Hygiene
+  - Engineering Hygiene: 🎓 known

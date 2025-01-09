@@ -1,29 +1,29 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
-  - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
+  - Model: 🎓 known
+  - Modeling: 🎓 known
+  - Subject domain: 🎓 known
+  - Algorithm: 🎓 known
+  - Syntax: 🎓 known
+  - Semantics: 👂 heard
+  - Abstraction: 👂 heard
   - Paradigm
-  - Programm
+  - Programm: 🎓 known
   - Programming paradigm
-  - Programming language
-  - Contract
-  - Module
-  - Library
-  - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
-  - Object code
-  - Machine code
-  - Microcode
-  - Software engineering
+  - Programming language: 🎓 known
+  - Contract: 👂 heard
+  - Module: 👂 heard
+  - Library: 👂 heard
+  - Package: 👂 heard
+  - Component: 👂 heard
+  - Framework: 👂 heard
+  - Platform: 👂 heard
+  - Source code: 👂 heard
+  - Object code: 👂 heard
+  - Machine code: 👂 heard
+  - Microcode: 👂 heard
+  - Software engineering: 👂 heard
   - Decomposition
   - Control flow
   - Data flow
@@ -40,18 +40,18 @@
   - Literal
   - Expression
   - Heap
-  - Function
+  - Function: 👂 heard
   - Procedure
-  - Method
-  - Class
+  - Method: 👂 heard
+  - Class: 👂 heard
   - Prototype
   - Event
-  - Type
-  - Flag
+  - Type: 👂 heard
+  - Flag: 👂 heard
   - Lexical scope
-  - Code block
+  - Code block: 👂 heard
   - Conditions
-  - Loops
+  - Loops: 👂 heard
   - Assignment
   - Regular expression
   - Interface
@@ -138,7 +138,7 @@
   - IPv4
   - IPv6
   - NAT
-  - URL
+  - URL: 👂 heard
   - URN
   - URI
 - Process and tools
@@ -149,24 +149,24 @@
   - Linter
   - Polyfill
   - Interpreter
-  - Linker
+  - Linker: 👂 heard
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine
+  - Virtual machine: 🎓 known
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger: 👂 heard
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
-  - Unittesting
-  - git
-  - Github
-  - Docker
+  - Refactoring: 🎓 known
+  - Code review: 👂 heard
+  - Exception: 👂 heard
+  - Unittesting: 👂 heard
+  - git: 🖐️ used
+  - Github: 🖐️ used
+  - Docker: 👂 heard
   - Kubernetes
   - GCC
   - LLVM
@@ -212,15 +212,15 @@
   - Drivers
   - Kernel
   - Ring
-  - Virtual memory
-  - File system
-  - Linux
-  - Unix
-  - BSD
-  - MacOS
-  - Windows
-  - Real-time OS
-  - Embedded OS
+  - Virtual memory: 👂 heard
+  - File system: 🎓 known
+  - Linux: 🎓 known
+  - Unix: 👂 heard
+  - BSD: 👂 heard
+  - MacOS: 🎓 known
+  - Windows: 🖐️ used
+  - Real-time OS: 👂 heard
+  - Embedded OS: 👂 heard
 - Standards
   - ASCII
   - Escape sequence
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8: 👂 heard
   - W3C
   - ODMG
