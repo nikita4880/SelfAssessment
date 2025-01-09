@@ -67,13 +67,13 @@
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S) h
-  - TCP/SSL h
+  - HTTP(S): 👂 heard
+  - TCP/SSL: 👂 heard
   - UDP
   - TLS
-  - Websocket h
+  - Websocket: 👂 heard
   - SSE
-  - HTTP/3 (QUIC) h
+  - HTTP/3 (QUIC): 👂 heard
   - Long polling
   - REST
   - RPC
@@ -83,7 +83,7 @@
   - XSS
   - Path traversal
   - CSRF
-  - DNS h
+  - DNS: 👂 heard
   - SQL injection
   - noDelay
   - keep-alive
@@ -99,11 +99,11 @@
   - Transform
   - Back pressure
   - Buffer
-  - Console u
+  - Console: 🖐️ used
   - Inspector
 - Data access
   - Data access layer
-  - Repository u
+  - Repository: 🖐️ used
   - Active record
   - Query builder
   - Object-Relational Mapping
@@ -126,18 +126,18 @@
   - Data race
 - Integrations and bindings
   - Native addons
-  - `C` and `C++` addons h
+  - `C` and `C++` addons: 👂 heard
   - `Rust` addons
   - `Zig` addons
   - NAN (Native Abstractions for Node.js)
   - Node-API (formerly N-API)
-  - NAPI `C` and `C++` h
-  - NAPI `Rust` h
+  - NAPI `C` and `C++`: 👂 heard
+  - NAPI `Rust`: 👂 heard
   - NAPI `Zig`
   - Webassembly `WAT`
-  - Webassembly `C` and `C++` h
-  - Webassembly `Rust` h
+  - Webassembly `C` and `C++`: 👂 heard
+  - Webassembly `Rust`: 👂 heard
   - Webassembly `Zig`
   - Webassembly `AssemblyScript`
-  - Shared memory h
+  - Shared memory: 👂 heard
   - V8 binary serialization

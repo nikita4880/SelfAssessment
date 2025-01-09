@@ -1,29 +1,29 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model k
-  - Modeling k
-  - Subject domain k
-  - Algorithm k
-  - Syntax k
-  - Semantics h
-  - Abstraction h
-  - Paradigm 
-  - Programm k
-  - Programming paradigm 
-  - Programming language k
-  - Contract h
-  - Module h
-  - Library h
-  - Package h
-  - Component h
-  - Framework h
-  - Platform h
-  - Source code h
-  - Object code h
-  - Machine code h
-  - Microcode h
-  - Software engineering h
+  - Model: 🎓 known
+  - Modeling: 🎓 known
+  - Subject domain: 🎓 known
+  - Algorithm: 🎓 known
+  - Syntax: 🎓 known
+  - Semantics: 👂 heard
+  - Abstraction: 👂 heard
+  - Paradigm
+  - Programm: 🎓 known
+  - Programming paradigm
+  - Programming language: 🎓 known
+  - Contract: 👂 heard
+  - Module: 👂 heard
+  - Library: 👂 heard
+  - Package: 👂 heard
+  - Component: 👂 heard
+  - Framework: 👂 heard
+  - Platform: 👂 heard
+  - Source code: 👂 heard
+  - Object code: 👂 heard
+  - Machine code: 👂 heard
+  - Microcode: 👂 heard
+  - Software engineering: 👂 heard
   - Decomposition
   - Control flow
   - Data flow
@@ -40,18 +40,18 @@
   - Literal
   - Expression
   - Heap
-  - Function h
+  - Function: 👂 heard
   - Procedure
-  - Method h
-  - Class h
+  - Method: 👂 heard
+  - Class: 👂 heard
   - Prototype
   - Event
-  - Type h
-  - Flag h
+  - Type: 👂 heard
+  - Flag: 👂 heard
   - Lexical scope
-  - Code block h
+  - Code block: 👂 heard
   - Conditions
-  - Loops h
+  - Loops: 👂 heard
   - Assignment
   - Regular expression
   - Interface
@@ -138,7 +138,7 @@
   - IPv4
   - IPv6
   - NAT
-  - URL h
+  - URL: 👂 heard
   - URN
   - URI
 - Process and tools
@@ -149,24 +149,24 @@
   - Linter
   - Polyfill
   - Interpreter
-  - Linker h
+  - Linker: 👂 heard
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine k
+  - Virtual machine: 🎓 known
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger h
+  - Debugger: 👂 heard
   - Tracing
   - Garbage collection
-  - Refactoring k
-  - Code review h
-  - Exception h
-  - Unittesting h
-  - git u
-  - Github u
-  - Docker h
+  - Refactoring: 🎓 known
+  - Code review: 👂 heard
+  - Exception: 👂 heard
+  - Unittesting: 👂 heard
+  - git: 🖐️ used
+  - Github: 🖐️ used
+  - Docker: 👂 heard
   - Kubernetes
   - GCC
   - LLVM
@@ -212,15 +212,15 @@
   - Drivers
   - Kernel
   - Ring
-  - Virtual memory h
-  - File system k
-  - Linux k
-  - Unix h
-  - BSD h
-  - MacOS k
-  - Windows u
-  - Real-time OS h
-  - Embedded OS h
+  - Virtual memory: 👂 heard
+  - File system: 🎓 known
+  - Linux: 🎓 known
+  - Unix: 👂 heard
+  - BSD: 👂 heard
+  - MacOS: 🎓 known
+  - Windows: 🖐️ used
+  - Real-time OS: 👂 heard
+  - Embedded OS: 👂 heard
 - Standards
   - ASCII
   - Escape sequence
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8 h
+  - UTF-8: 👂 heard
   - W3C
   - ODMG

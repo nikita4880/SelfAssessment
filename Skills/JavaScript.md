@@ -1,27 +1,27 @@
 ## JavaScript
 
 - Language
-  - `Object` u
-  - `Function` u
-  - `Boolean` u
-  - `Number` u
-  - `BigInt` u
-  - `String` u
-  - `Symbol` u
-  - `Infinity` u
-  - `NaN` u
-  - `undefined` u
-  - `null` u
-  - `this` 
-  - `instanceof` 
-  - `...spread` h
-  - `...rest` h
-  - `typeof` u
+  - `Object`: 🖐️ used
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
+  - `BigInt`: 🖐️ used
+  - `String`: 🖐️ used
+  - `Symbol`: 🖐️ used
+  - `Infinity`: 🖐️ used
+  - `NaN`: 🖐️ used
+  - `undefined`: 🖐️ used
+  - `null`: 🖐️ used
+  - `this`
+  - `instanceof`
+  - `...spread`: 👂 heard
+  - `...rest`: 👂 heard
+  - `typeof`: 🖐️ used
   - Destructuring
   - Generators
   - Iterators
   - Async generator
-  - Async iterator h
+  - Async iterator: 👂 heard
   - Chaining
   - Optional chaining
   - IIFE
@@ -31,7 +31,7 @@
   - `window`
   - Getters and setters
   - `__proto__`
-  - `prototype` h
+  - `prototype`: 👂 heard
   - Equality operators
   - Logical operators
   - Logical Assignment
@@ -59,25 +59,25 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if` u
-  - `while` u
-  - `do..while` u
-  - `for` u
-  - `for..in` k
-  - `for..of` k
-  - `for await` k
-  - `throw` k
-  - `break` k
-  - `continue` k
-  - `import` k
-  - `export` k
-  - `label` k
-  - `try..catch` h
-  - `switch` k
-  - `class` k
-  - `extends` 
-  - `with` h
-  - `new` h
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 🖐️ used
+  - `for`: 🖐️ used
+  - `for..in`: 🎓 known
+  - `for..of`: 🎓 known
+  - `for await`: 🎓 known
+  - `throw`: 🎓 known
+  - `break`: 🎓 known
+  - `continue`: 🎓 known
+  - `import`: 🎓 known
+  - `export`: 🎓 known
+  - `label`: 🎓 known
+  - `try..catch`: 👂 heard
+  - `switch`: 🎓 known
+  - `class`: 🎓 known
+  - `extends`
+  - `with`: 👂 heard
+  - `new`: 👂 heard
 - Functions
   - Arrow function
   - Async function
@@ -99,14 +99,14 @@
   - Mixins
   - `Object.assign`
 - Standard classes and namespaces
-  - `Proxy` h
+  - `Proxy`: 👂 heard
   - `RegExp`
   - `Date`
-  - `Math` h
+  - `Math`: 👂 heard
   - `Reflect`
-  - `Error` h
+  - `Error`: 👂 heard
   - `Atomics`
-  - `JSON` h
+  - `JSON`: 👂 heard
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
@@ -115,8 +115,8 @@
   - Timers
 - Infrastructure
   - V8
-  - Node.js h
-  - npm u
+  - Node.js: 👂 heard
+  - npm: 🖐️ used
   - prettier
   - MDN
   - TC39

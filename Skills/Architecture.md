@@ -1,29 +1,29 @@
 ## Architecture
 
-- Application structure 
-  - Modularity 
-  - Components 
-  - Directories k
-  - GRASP 
-  - SOLID 
-  - GoF patterns 
-  - CQS h
-  - Leaking abstractions 
-  - Multiparadigm code 
-  - Contract programming 
-  - Platform-agnostic 
-  - Transport-agnostic 
-  - Framework-agnostic 
-  - Code coverage 
-  - Cohesion 
-  - Coupling 
-  - Cyclomatic complexity 
-  - Reliability u
-  - Quality k
-  - Availability k
-  - Flexibility k
-  - Law of Demeter (LoD) 
-- Application architecture 
+- Application structure
+  - Modularity
+  - Components
+  - Directories: 🎓 known
+  - GRASP
+  - SOLID
+  - GoF patterns
+  - CQS: 👂 heard
+  - Leaking abstractions
+  - Multiparadigm code
+  - Contract programming
+  - Platform-agnostic
+  - Transport-agnostic
+  - Framework-agnostic
+  - Code coverage
+  - Cohesion
+  - Coupling
+  - Cyclomatic complexity
+  - Reliability: 🖐️ used
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
+  - Law of Demeter (LoD)
+- Application architecture
   - Isolation between layer
   - Domain-specific language (DSL)
   - System vs applied code
@@ -97,4 +97,4 @@
   - OLTP
   - Conways Law
   - Quality assurance
-  - Engineering Hygiene k
+  - Engineering Hygiene: 🎓 known
